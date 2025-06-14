@@ -1,4 +1,7 @@
 ## Hi there 👋
+Hey there! My name is Mubaraq Dayo Lawal. I’m a DevSecOps engineer with hands-on experience in securely automating CI/CD pipelines for cloud platforms like Azure, AWS, and GCP. I specialize in using tools like Terraform to automate cloud infrastructure provisioning. My focus is on helping organizations deliver new features to clients quickly, securely, and reliably.
+
+<br>
 
 <!--
 **dayoDevSecOps/dayoDevSecOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
